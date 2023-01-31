@@ -6,12 +6,12 @@ Tennis is **very intresting** and my favorite sport since childhood its really f
 ---
 
 ## Ordered and Unordered list
-### Indian Tennis Team
+### Ordered list Indian Tennis Team players
 1. Sania Mirza
 2. Mahesh Bhupathi
 3. Leander Paes
 
-## an unordered list of other teams
+## an unordered list of other country teams
 * Serbia
 * Spain
 * Australia
