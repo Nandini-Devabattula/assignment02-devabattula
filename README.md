@@ -16,4 +16,16 @@ Tennis is **very intresting** and my favorite sport since childhood its really f
 * Spain
 * Australia
 
-[Link to AboutMe](C:\Users\S560018\Documents\GitHub\assignment02-devabattula\AboutMe.md)
+[Link to AboutMe.md](AboutMe.md)
+
+---
+
+## Creating a Table ##
+Below is the table which gives information about 4 different countries which i would recommend anyone to visit.
+
+| Name of the country| Reason to recommend | Days of Spending |
+| --- | --- | --- |
+| USA | To Experience the beauty of Niagara Falls | 30|
+| Cannada | To Experience the beauty of Nature and snowfall| 40 |
+| India | To Experience various different cultures and one of the wonders of the world | 40 |
+| France | To visit Eiffel Tower and also experience the royality of the paris city | 20 |
