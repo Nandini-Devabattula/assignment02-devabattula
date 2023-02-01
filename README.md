@@ -38,9 +38,8 @@ Below is the table which gives information about 4 different countries which i w
 > You can't have everything. Where would you put it? - *Steven Wright*
 
 ## Code Fencing ##
-> How can I display a list of folders on a local webpage by only using HTML and Javascript?
-
-Quick Link for displaying styled directory contents in PhP <https://stackoverflow.com/questions/47762913/how-can-i-display-a-list-of-folders-on-a-local-webpage-by-only-using-html-and-ja>
+> How to check if a string starts with "_" in PHP?
+Quick Link for displaying styled directory contents in PhP <https://stackoverflow.com/questions/1962031/how-to-check-if-a-string-starts-with-in-php>
 
 ```
 <?php
