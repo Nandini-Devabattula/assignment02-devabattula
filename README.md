@@ -36,3 +36,17 @@ Below is the table which gives information about 4 different countries which i w
 > Always remember that you are absolutely unique. Just like everyone else - *Margaret Mead* 
 
 > You can't have everything. Where would you put it? - *Steven Wright*
+
+## Code Fencing ##
+> How can I display a list of folders on a local webpage by only using HTML and Javascript?
+
+Quick Link for displaying styled directory contents in PhP <https://stackoverflow.com/questions/47762913/how-can-i-display-a-list-of-folders-on-a-local-webpage-by-only-using-html-and-ja>
+
+```
+<?php
+  $gravatar_link = 'http://www.gravatar.com/avatar/' . md5($comment_author_email) . '?s=32';
+   echo '<img src="' . $gravatar_link . '" />';
+?>
+```
+
+Quick link to the code above <https://css-tricks.com/snippets/php/display-a-user-gravatar-from-email-address/>
