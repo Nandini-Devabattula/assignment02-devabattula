@@ -39,6 +39,7 @@ Below is the table which gives information about 4 different countries which i w
 
 ## Code Fencing ##
 > How to check if a string starts with "_" in PHP?
+
 Quick Link for displaying styled directory contents in PhP <https://stackoverflow.com/questions/1962031/how-to-check-if-a-string-starts-with-in-php>
 
 ```
