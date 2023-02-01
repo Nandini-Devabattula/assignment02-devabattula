@@ -29,3 +29,10 @@ Below is the table which gives information about 4 different countries which i w
 | Cannada | To Experience the beauty of Nature and snowfall| 40 |
 | India | To Experience various different cultures and one of the wonders of the world | 40 |
 | France | To visit Eiffel Tower and also experience the royality of the paris city | 20 |
+
+---
+
+## Pithy Quotes ##
+> Always remember that you are absolutely unique. Just like everyone else - *Margaret Mead* 
+
+> You can't have everything. Where would you put it? - *Steven Wright*
