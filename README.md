@@ -37,6 +37,8 @@ Below is the table which gives information about 4 different countries which i w
 
 > You can't have everything. Where would you put it? - *Steven Wright*
 
+---
+
 ## Code Fencing ##
 > How to check if a string starts with "_" in PHP?
 
